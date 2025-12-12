@@ -75,6 +75,9 @@ Hur man skapar en chart med hjälp av Javascript och HTML i vscode.
 
 Det ska nu gå att starta charten i vscode genom att gå live. Om du använder cmd istället för vscode terminalen ska du skriva in `npm run dev` för att starta charten. med Ctrl C avbryter man. Gå till http://localhost:1234/ för att se charten.
 
+<img width="1258" height="644" alt="image" src="https://github.com/user-attachments/assets/c7679b87-f7b4-435d-b2e0-f957317394ea" />
+
+
 
 # Begrepp och kort förklaring
 json: json är ett filformat man kan använda Javascript i. {} betyder object i en json fil och inte början och slutet på en funktion som det betyder i exempelvis html. 
