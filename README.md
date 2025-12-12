@@ -77,7 +77,8 @@ Det ska nu gå att starta charten i vscode genom att gå live. Om du använder c
 
 ## Ideer
 
-<img width="194" height="475" alt="image" src="https://github.com/user-attachments/assets/a6966e63-b671-46f6-8299-c7578c5a831c" />
+<img width="161" height="382" alt="image" src="https://github.com/user-attachments/assets/9e674c56-3449-4fff-8762-e6e7abf4f9af" /> <img width="166" height="528" alt="image" src="https://github.com/user-attachments/assets/bdfad313-0ebb-4556-95d6-ae4f98325217" />
+
 <img width="1878" height="950" alt="image" src="https://github.com/user-attachments/assets/c71a6534-22f4-4ec8-a455-bfe3b9917460" />
 
 
