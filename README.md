@@ -80,6 +80,6 @@ Det ska nu gå att starta charten i vscode genom att gå live. Om du använder c
 
 
 # Begrepp och kort förklaring
-json: json är ett filformat man kan använda Javascript i. {} betyder object i en json fil och inte början och slutet på en funktion som det betyder i exempelvis html. 
-Object: Ett object är en variabel som kan hålla flera variabler. Skrivs i Javascript.
-Array: En array är en grupp med objects och markeras med []. Skrivs i Javascript. 
+* json: json är ett filformat man kan använda Javascript i. {} betyder object i en json fil och inte början och slutet på en funktion som det betyder i exempelvis html. 
+* Object: Ett object är en variabel som kan hålla flera variabler. Skrivs i Javascript.
+* Array: En array är en grupp med objects och markeras med []. Skrivs i Javascript. 
