@@ -75,10 +75,12 @@ Hur man skapar en chart med hjälp av Javascript och HTML i vscode.
 
 Det ska nu gå att starta charten i vscode genom att gå live. Om du använder cmd istället för vscode terminalen ska du skriva in `npm run dev` för att starta charten. med Ctrl C avbryter man. Gå till http://localhost:1234/ för att se charten.
 
-<img width="1258" height="644" alt="image" src="https://github.com/user-attachments/assets/c7679b87-f7b4-435d-b2e0-f957317394ea" />
+## Ideer
 
-## Ide 
 <img width="194" height="475" alt="image" src="https://github.com/user-attachments/assets/a6966e63-b671-46f6-8299-c7578c5a831c" />
+<img width="1878" height="950" alt="image" src="https://github.com/user-attachments/assets/c71a6534-22f4-4ec8-a455-bfe3b9917460" />
+
+
 
 
 
